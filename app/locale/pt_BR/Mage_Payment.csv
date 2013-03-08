@@ -96,7 +96,7 @@
 "Severe 3D Secure Card Validation","Validação de Cartão Severe 3D Secure"
 "Severe validation removes chargeback liability on merchant.","A validação rigorosa isenta o comerciante da responsabilidade de desconto."
 "Shipping Amount","Valor do Frete"
-"Short description of the recurring payment. By default equals to the product name.","Breve descrição do pagamento recorrente. Por padrão, é igual ao nome do produto."
+"Short description of the recurring payment. By default equals to the product name.","Descrição resumida do pagamento recorrente. Por padrão, é igual ao nome do produto."
 "Sort Order","Classificar pedido"
 "Start Date","Data de início"
 "Start date has invalid format.","A data inicial tem formato inválido."
