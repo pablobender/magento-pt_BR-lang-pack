@@ -643,7 +643,7 @@
 "Skipping import row, the value ""%s"" is not valid for the ""%s"" field.","Pular linha de importação, o valor ""%s"" não é válido para o campo ""%s""."
 "Some of the processed products have no SKU value defined. Please fill it prior to performing operations on these products.","Alguns dos produtos processados não têm o valor de SKU (Cód. Unid. Manut. Estoque) definido. Por favor preencha-o antes de executar operações sobre estes produtos."
 "Some of the products below do not have all the required options. Please edit them and configure all the required options.","Alguns dos produtos abaixo não têm todas as opções necessárias. Por favor edite-os e configure todas as opções necessárias."
-"Sort By","Classificar Por"
+"Sort By","Ordenar por:"
 "Sort Order","Classificar pedido"
 "Source Model","Modelo de Origem"
 "Special Expires On: %s","Promoção Expira Em: %s"
